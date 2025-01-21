@@ -1,2 +1,3 @@
-name = input("Введите ваше имя: ")
-print(f"Hello world from {name}")
+name = input("Введите ваше имя: ") #Ввод имени
+print("Hello world from", name)
+
